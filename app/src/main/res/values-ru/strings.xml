@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Что бы ты выбрал</string>
+    <string name="start">старт</string>
+    <string name="about">об игре</string>
+    <string name="exit">выход</string>
+    <string name="easy">изи</string>
+    <string name="normal">норм</string>
+    <string name="hard">жесть</string>
+</resources>

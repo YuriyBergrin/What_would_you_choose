@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="easy_questions">
+        <item>
+            Sleep with a homeless woman or eat a friend\'s burp?
+        </item>
+    </string-array>
+</resources>

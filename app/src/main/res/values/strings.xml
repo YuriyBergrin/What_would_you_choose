@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">What would you choose</string>
+    <string name="start">start</string>
+    <string name="about">about</string>
+    <string name="exit">exit</string>
+    <string name="easy">crap</string>
+    <string name="normal">normal</string>
+    <string name="hard">hard cheese</string>
+</resources>
