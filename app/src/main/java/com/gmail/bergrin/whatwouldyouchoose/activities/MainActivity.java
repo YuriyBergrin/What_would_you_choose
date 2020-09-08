@@ -1,4 +1,4 @@
-package com.gmail.bergrin.whatwouldyouchoose;
+package com.gmail.bergrin.whatwouldyouchoose.activities;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -9,6 +9,8 @@ import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
+
+import com.gmail.bergrin.whatwouldyouchoose.R;
 
 public class MainActivity extends AppCompatActivity {
 
