@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="easy_questions">
-        <item>
-            Sleep with a homeless woman or eat a friend\'s burp?
-        </item>
+        <item>easy question 1 or second part</item>
+        <item>easy question 2 or second part</item>
+        <item>easy question 3 or second part</item>
+    </string-array>
+
+    <string-array name="normal_questions">
+        <item>normal question 1 or second part</item>
+        <item>normal question 2 or second part</item>
+        <item>normal question 3 or second part</item>
+    </string-array>
+
+    <string-array name="hard_questions">
+        <item>hard question 1 or second part</item>
+        <item>hard вопрос 2 or second part</item>
+        <item>hard вопрос 3 or second part</item>
     </string-array>
 </resources>

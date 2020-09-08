@@ -14,20 +14,18 @@ import android.widget.Button;
 
 import com.gmail.bergrin.whatwouldyouchoose.R;
 
+import static com.gmail.bergrin.whatwouldyouchoose.utils.Constants.*;
+
 public class ChooseLevelActivity extends AppCompatActivity implements View.OnClickListener {
-
-    private static final int EASY = 1;
-    private static final int NORMAL = 2;
-    private static final int HARD = 3;
-
-    private Button easyButton;
-    private Button normalButton;
-    private Button hardButton;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_choose_level);
+
+        Button easyButton;
+        Button normalButton;
+        Button hardButton;
 
         easyButton = findViewById(R.id.easyButton);
         normalButton = findViewById(R.id.normalButton);
@@ -57,19 +55,16 @@ public class ChooseLevelActivity extends AppCompatActivity implements View.OnCli
         Intent levelIntent = new Intent(ChooseLevelActivity.this, QuestionsActivity.class);
         switch (v.getId()) {
             case R.id.easyButton:
-                Log.d("CLICK", "EASY");
                 levelIntent.putExtra("LEVEL", EASY);
                 startActivity(levelIntent);
                 break;
 
             case R.id.normalButton:
-                Log.d("CLICK", "NORMAL");
                 levelIntent.putExtra("LEVEL", NORMAL);
                 startActivity(levelIntent);
                 break;
 
             case R.id.hardButton:
-                Log.d("CLICK", "HARD");
                 levelIntent.putExtra("LEVEL", HARD);
                 startActivity(levelIntent);
                 break;

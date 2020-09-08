@@ -7,4 +7,10 @@
     <string name="normal">норм</string>
     <string name="hard">жесть</string>
     <string name="or">или</string>
+    <string name="first">первый</string>
+    <string name="second">второй</string>
+    <string name="stop">стоп</string>
+    <string name="result">узнать результат</string>
+    <string name="select_level">выбрать уровень</string>
+    <string name="questions">вопросы</string>
 </resources>

@@ -9,8 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".activities.QuestionsActivity"></activity>
-        <activity android:name=".activities.ChooseLevelActivity" />
+        <activity
+            android:name=".activities.QuestionsActivity"
+            android:label="@string/questions"></activity>
+        <activity android:name=".activities.ChooseLevelActivity"
+            android:label="@string/select_level"/>
         <activity android:name=".activities.AboutActivity" />
         <activity android:name=".activities.MainActivity">
             <intent-filter>

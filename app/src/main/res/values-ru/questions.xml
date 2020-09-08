@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="easy_questions">
-        <item>
-            Переспать с бомжихой или съесть отрыжку друга?
-        </item>
+        <item>изи вопрос 1  или вторая часть</item>
+        <item>изи вопрос 2 или вторая часть</item>
+        <item>изи вопрос 3 или вторая часть</item>
+    </string-array>
+
+    <string-array name="normal_questions">
+        <item>норм вопрос 1 или вторая часть</item>
+        <item>норм вопрос 2 или вторая часть</item>
+        <item>норм вопрос 3 или вторая часть</item>
+    </string-array>
+
+    <string-array name="hard_questions">
+        <item>жесть вопрос 1 или вторая часть</item>
+        <item>жесть вопрос 2 или вторая часть</item>
+        <item>жесть вопрос 3 или вторая часть</item>
     </string-array>
 </resources>
