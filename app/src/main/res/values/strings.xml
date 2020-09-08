@@ -10,7 +10,15 @@
     <string name="first">first</string>
     <string name="second">second</string>
     <string name="stop">stop</string>
-    <string name="result">get result</string>
+    <string name="result">result</string>
     <string name="select_level">select level</string>
     <string name="questions">questions</string>
+    <string name="stop_and_get_result">stop and show result</string>
+    <string name="pervert">ugly pervert</string>
+    <string name="lunatic">grade A lunatic</string>
+    <string name="cool_dog">cool dog</string>
+    <string name="crazy">crazy</string>
+    <string name="normal_dude">normal dude</string>
+    <string name="restart">start over</string>
+    <string name="you">"you are "</string>
 </resources>

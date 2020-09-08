@@ -10,7 +10,15 @@
     <string name="first">первый</string>
     <string name="second">второй</string>
     <string name="stop">стоп</string>
-    <string name="result">узнать результат</string>
+    <string name="result">результат</string>
     <string name="select_level">выбрать уровень</string>
     <string name="questions">вопросы</string>
+    <string name="stop_and_get_result">остановить и показать результат</string>
+    <string name="pervert">гадкий извращенец</string>
+    <string name="lunatic">лунатик степени А</string>
+    <string name="cool_dog">крутой пёс</string>
+    <string name="crazy">псих</string>
+    <string name="normal_dude">нормальный чувак</string>
+    <string name="restart">начать сначала</string>
+    <string name="you">ты проcто</string>
 </resources>

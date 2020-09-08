@@ -2,67 +2,68 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    style="@style/background_style"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".activities.QuestionsActivity"
-    style="@style/background_style">
+    tools:context=".activities.QuestionsActivity">
 
     <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_margin="20dp"
         android:layout_centerInParent="true"
+        android:layout_margin="20dp"
         android:orientation="vertical">
+
         <Button
+            android:id="@+id/firstQuestionButton"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/first"
-            android:textSize="50sp"
-            android:background="@android:color/holo_blue_dark"
+            android:layout_gravity="center"
+            android:background="@android:color/holo_red_dark"
+            android:onClick="firstChose"
             android:padding="8dp"
-            android:layout_gravity="center"/>
+            android:text="@string/first"
+            android:textSize="50sp" />
+
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/or"
-            android:textSize="50sp"
-            android:background="@android:color/holo_blue_dark"
+            android:layout_gravity="center"
             android:layout_marginTop="20dp"
+            android:background="@android:color/holo_blue_dark"
             android:padding="8dp"
-            android:layout_gravity="center"/>
+            android:text="@string/or"
+            android:textSize="50sp" />
+
         <Button
+            android:id="@+id/secondQuestionButton"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/second"
-            android:textSize="50sp"
-            android:background="@android:color/holo_blue_dark"
+            android:layout_gravity="center"
             android:layout_marginTop="20dp"
+            android:background="@android:color/holo_green_dark"
+            android:onClick="secondChose"
             android:padding="8dp"
-            android:layout_gravity="center"/>
+            android:text="@string/second"
+            android:textSize="50sp" />
     </LinearLayout>
-<LinearLayout
-    android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    android:orientation="horizontal"
-    android:layout_alignParentBottom="true"
-    android:layout_margin="30dp">
-    <Button
-        android:id="@+id/startStopButton"
+
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/start"
-        android:layout_weight="1"
-        android:background="@android:color/holo_blue_dark"
-        android:layout_marginRight="15dp"
-        android:onClick="startStopGame"/>
-    <Button
-        android:id="@+id/getResultButton"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/result"
-        android:layout_weight="1"
-        android:background="@android:color/holo_blue_dark"
-        android:layout_marginLeft="15dp"
-        android:enabled="false"/>
-</LinearLayout>
+        android:layout_alignParentBottom="true"
+        android:layout_margin="30dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/stopAndShowResultButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="15dp"
+            android:background="@android:color/holo_blue_dark"
+            android:enabled="false"
+            android:text="@string/stop_and_get_result"
+            android:visibility="invisible"
+            android:onClick="showResultClick"/>
+    </LinearLayout>
 </RelativeLayout>
