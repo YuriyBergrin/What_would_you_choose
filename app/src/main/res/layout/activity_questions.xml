@@ -23,7 +23,7 @@
             android:onClick="firstChose"
             android:padding="8dp"
             android:text="@string/first"
-            android:textSize="50sp" />
+            android:textSize="25sp" />
 
         <TextView
             android:layout_width="wrap_content"
@@ -33,7 +33,7 @@
             android:background="@android:color/holo_blue_dark"
             android:padding="8dp"
             android:text="@string/or"
-            android:textSize="50sp" />
+            android:textSize="25sp" />
 
         <Button
             android:id="@+id/secondQuestionButton"
@@ -45,7 +45,7 @@
             android:onClick="secondChose"
             android:padding="8dp"
             android:text="@string/second"
-            android:textSize="50sp" />
+            android:textSize="25sp" />
     </LinearLayout>
 
     <LinearLayout

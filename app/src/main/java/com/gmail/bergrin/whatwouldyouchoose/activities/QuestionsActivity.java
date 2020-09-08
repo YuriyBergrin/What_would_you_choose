@@ -40,10 +40,10 @@ public class QuestionsActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_questions);
 
-        ActionBar actionBar = this.getSupportActionBar();
-        if (actionBar != null) {
-            actionBar.setDisplayHomeAsUpEnabled(true);
-        }
+//        ActionBar actionBar = this.getSupportActionBar();
+//        if (actionBar != null) {
+//            actionBar.setDisplayHomeAsUpEnabled(true);
+//        }
         firstQuestionButton = findViewById(R.id.firstQuestionButton);
         secondQuestionButton = findViewById(R.id.secondQuestionButton);
         stopAndShowResultButton = findViewById(R.id.stopAndShowResultButton);
@@ -65,14 +65,15 @@ public class QuestionsActivity extends AppCompatActivity {
         secondQuestionButton.setText(questions.get(0).getQuestionSecondPart());
     }
 
-    @Override
-    public boolean onOptionsItemSelected(@NonNull MenuItem item) {
-        int id = item.getItemId();
-        if (id == android.R.id.home) {
-            NavUtils.navigateUpFromSameTask(this);
-        }
-        return super.onOptionsItemSelected(item);
-    }
+//    @Override
+//    public boolean onOptionsItemSelected(@NonNull MenuItem item) {
+//        int id = item.getItemId();
+//        if (id == android.R.id.home) {
+//           // NavUtils.navigateUpFromSameTask(this);
+//            finish();
+//        }
+//        return super.onOptionsItemSelected(item);
+//    }
 
     private void fillQuestionList(int level) {
         switch (level) {
