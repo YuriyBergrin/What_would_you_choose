@@ -19,14 +19,14 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/easy"
-            android:background="@android:color/holo_blue_dark"/>
+            android:background="@drawable/softrectangletextview_bottom"/>
 
         <Button
             android:id="@+id/normalButton"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/normal"
-            android:background="@android:color/holo_blue_dark"
+            android:background="@drawable/softrectangletextview"
             android:layout_marginTop="40dp"/>
 
         <Button
@@ -34,7 +34,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/hard"
-            android:background="@android:color/holo_blue_dark"
+            android:background="@drawable/softrectangletextview_bottom"
             android:layout_marginTop="40dp"/>
 
     </LinearLayout>

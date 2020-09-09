@@ -8,7 +8,8 @@
     tools:context=".activities.QuestionsActivity">
 
     <LinearLayout
-        android:layout_width="wrap_content"
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
         android:layout_margin="20dp"
@@ -16,54 +17,51 @@
 
         <Button
             android:id="@+id/firstQuestionButton"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
             android:layout_gravity="center"
-            android:background="@android:color/holo_red_dark"
+            android:background="@drawable/softrectangletextview"
             android:onClick="firstChose"
             android:padding="8dp"
             android:text="@string/first"
-            android:textSize="25sp" />
+            android:textSize="18sp"/>
 
         <TextView
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_height="match_parent"
             android:layout_gravity="center"
+            android:gravity="center"
             android:layout_marginTop="20dp"
-            android:background="@android:color/holo_blue_dark"
+            android:background="@drawable/rounded_textview"
             android:padding="8dp"
             android:text="@string/or"
-            android:textSize="25sp" />
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:textColor="@android:color/black"
+            />
 
         <Button
             android:id="@+id/secondQuestionButton"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
             android:layout_gravity="center"
             android:layout_marginTop="20dp"
-            android:background="@android:color/holo_green_dark"
+            android:background="@drawable/softrectangletextview_bottom"
             android:onClick="secondChose"
             android:padding="8dp"
             android:text="@string/second"
-            android:textSize="25sp" />
+            android:textSize="18sp" />
     </LinearLayout>
-
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_margin="30dp"
-        android:orientation="horizontal">
 
         <Button
             android:id="@+id/stopAndShowResultButton"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginRight="15dp"
-            android:background="@android:color/holo_blue_dark"
+            android:layout_margin="20dp"
+            android:background="@drawable/softrectangletextview_blue"
             android:enabled="false"
             android:text="@string/stop_and_get_result"
             android:visibility="invisible"
-            android:onClick="showResultClick"/>
-    </LinearLayout>
+            android:onClick="showResultClick"
+            android:layout_alignParentBottom="true"/>
 </RelativeLayout>

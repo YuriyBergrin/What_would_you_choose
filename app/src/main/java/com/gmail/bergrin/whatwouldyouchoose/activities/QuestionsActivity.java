@@ -6,6 +6,7 @@ import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.app.NavUtils;
 
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
@@ -130,12 +131,18 @@ public class QuestionsActivity extends AppCompatActivity {
         alertDialogBuilderUserInput.setPositiveButton(getResources().getText(R.string.restart), null);
 
         TextView resultLabelTextView = view.findViewById(R.id.resultLabelTextView);
-        TextView resultDescriptionTextView = view.findViewById(R.id.resultDescriptionTextView);
+//        TextView resultDescriptionTextView = view.findViewById(R.id.resultDescriptionTextView);
 
         resultLabelTextView.setText(setResultAlert());
 
         AlertDialog alertDialog = alertDialogBuilderUserInput.create();
         alertDialog.show();
+        Button b = alertDialog.getButton(DialogInterface.BUTTON_POSITIVE);
+        if(b != null) {
+            b.setBackground(getResources().getDrawable(R.drawable.softrectangletextview));
+            b.setPadding(40,4,40,4);
+            b.setTextColor(getResources().getColor(R.color.colorAccent));
+        }
     }
 
     public void showResultClick(View view) {
