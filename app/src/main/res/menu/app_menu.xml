@@ -2,13 +2,6 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <item
-        android:id="@+id/about_option"
-        android:icon="@drawable/ic_baseline_info_24"
-        android:orderInCategory="100"
-        android:title="@string/about"
-        app:showAsAction="never" />
-
-    <item
         android:id="@+id/exit_option"
         android:orderInCategory="110"
         android:title="@string/exit"

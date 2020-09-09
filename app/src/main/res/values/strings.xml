@@ -21,4 +21,6 @@
     <string name="normal_dude">normal dude</string>
     <string name="restart">start over</string>
     <string name="you">"you are "</string>
+    <string name="ok">ok</string>
+    <string name="description">this is just a joke quiz, just answer the questions and find out who you are</string>
 </resources>

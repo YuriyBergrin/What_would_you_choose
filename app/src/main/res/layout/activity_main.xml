@@ -2,26 +2,37 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    style="@style/background_style"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".activities.MainActivity"
-    android:gravity="center"
-    style="@style/background_style">
+    tools:context=".activities.MainActivity">
 
-    <LinearLayout
+    <Button
+        android:id="@+id/startButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_gravity="center"
+        android:layout_margin="20dp"
+        android:background="@drawable/softrectangletextview"
+        android:onClick="openChooseLevelActivity"
+        android:text="@string/start"
+        android:textColor="@color/colorAccent"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/aboutButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:orientation="vertical"
-        android:layout_margin="20dp">
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="center"
+        android:layout_margin="20dp"
+        android:background="@drawable/softrectangletextview"
+        android:onClick="openAboutDialog"
+        android:text="@string/about"
+        android:textColor="@color/colorAccent"
+        android:textStyle="bold" />
 
-        <Button
-            android:id="@+id/startButton"
-            android:layout_width="wrap_content"
-            android:layout_height="match_parent"
-            android:layout_gravity="center"
-            android:background="@drawable/rounded_textview"
-            android:onClick="openChooseLevelActivity"
-            android:text="@string/start" />
-    </LinearLayout>
 
 </RelativeLayout>

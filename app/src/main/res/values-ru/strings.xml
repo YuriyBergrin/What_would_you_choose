@@ -21,4 +21,6 @@
     <string name="normal_dude">нормальный чувак</string>
     <string name="restart">начать сначала</string>
     <string name="you">ты проcто</string>
+    <string name="ok">ok</string>
+    <string name="description">это  просто шуточная викторина, просто отвечай на вопросы и узнавай кто ты</string>
 </resources>
