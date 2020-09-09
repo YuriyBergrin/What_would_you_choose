@@ -1,95 +1,95 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="easy_questions">
-        <item>Уметь говорить на всех языках мира, или уметь разговаривать с животными?</item>
-        <item>Иметь способность перематывать жизнь назад или ставить её на паузу?</item>
-        <item>Отказаться от соли или отказаться от сахара?</item>
-        <item>Иметь способность читать чужие мысли или летать?</item>
-        <item>Родиться с хоботом слона или с длинной шеей жирафа?</item>
-        <item>Быть сильно волосатым или абсолютно лысым?</item>
-        <item>Вы бы отказались от сыра или шоколада?</item>
-        <item>Знать на среднем уровне английский или в совершенстве китайский?</item>
-        <item>Побриться налысо или покрасить волосы в салатовый цвет?</item>
-        <item>Попить чай в шикарном ресторане или до отвала наесться в столовке?</item>
-        <item>Работать только в женском коллективе всю жизнь или всю жизнь одному?</item>
-        <item>Убить муху или муравья?</item>
-        <item>Работать на работе с высокой зарплатой и не успевать заниматься хобби или зарабатывать хобби копейки?</item>
-        <item>Никогда ни с кем не переписываться или не иметь возможность позвонить человеку?</item>
-        <item>Отказаться от буквы A или "O при написании?</item>
-        <item>Назвать своего ребенка по имени первой любви, при условии, что твой партнер знает об этом или партнера называть по имени своей первой любви?</item>
-        <item> Быть злым и одиноким или добрым, но которым постоянно пользуются?</item>
-        <item>Отказаться от использования компьютера или телефона?</item>
-        <item>Взять старомодное имя или ужасную фамилию?</item>
-        <item>Жить во время Первой мировой войны или Второй мировой войны?</item>
-        <item>Быть сильным, но трусливым или слабым, но безрассудно смелым?</item>
-        <item>Заниматься только экстремальными видами спорта или не заниматься спортом вообще?</item>
-        <item>Никогда не есть сладкое или не есть соленое?</item>
-        <item>Погулять по Европе или полежать возле моря в Тайланде?</item>
+        <item>Be able to speak all the languages of the world, or be able to talk to animals?</item>
+        <item>Have the ability to rewind your life or pause it?</item>
+        <item>Give up salt or give up sugar?</item>
+        <item>Have the ability to read other people\'s minds or fly?</item>
+        <item>Be born with the trunk of an elephant or the long neck of a giraffe?</item>
+        <item>Be very hairy or completely bald?</item>
+        <item>Would you prefer cheese or chocolate?</item>
+        <item>Do you know Spanish at an average level or perfect Chinese?</item>
+        <item>To shave his head or dye your hair a light green color?</item>
+        <item>Drink tea in a posh restaurant or eat your fill in fast food?</item>
+        <item>Work only in a women\'s team all your life or all your life alone?</item>
+        <item>Kill a fly or an ant?</item>
+        <item>Work at a job with a high salary and do not have time to do a hobby or earn a hobby for little money?</item>
+        <item>Never correspond with anyone or be able to call a person?</item>
+        <item>To unsubscribe from the letters A or O when writing?</item>
+        <item>Call your child by the name of your first love, provided that your partner knows about it, or call your partner by the name of your first love?</item>
+        <item>To be angry and lonely or kind, but constantly used?</item>
+        <item>Stop using your computer or phone?</item>
+        <item>Take an old-fashioned name or a terrible last name?</item>
+        <item>Live during world war I or world war II?</item>
+        <item>Be strong but cowardly, or weak but reckless?</item>
+        <item>Do you only do extreme sports or don\'t do sports at all?</item>
+        <item>Never eat anything sweet or salty?</item>
+        <item>Take a walk in Europe or lie by the sea in Thailand?</item>
     </string-array>
 
     <string-array name="normal_questions">
-        <item>Испытывать постоянную боль или невыносимый зуд?</item>
-        <item>Умереть, сгорев в огне или замерзнуть до смерти?</item>
-        <item>Подтираться наждачной бумагой или использовать уксус вместо глазных капель?</item>
-        <item>Чтобы никто не пришел на вашу свадьбу или никто не явился на ваши похороны?</item>
-        <item>Отказаться VK или отказаться от YouTube?</item>
-        <item>Съесть козюльку друга или ушную серу своей бабушки?</item>
-        <item>Облизать шерсть уличной собаки и засунуть палец в жопу домашнему коту?</item>
-        <item>Прийти на работу в трусах или заняться сексом при родителях?</item>
-        <item>Пройтись голым ночью по центру Бангкока или проваляться день вонючим бомжом?</item>
-        <item>Заметно почесать между ног на совещании или пукнуть в лифте с с сослуживцами?</item>
-        <item>Сказать начальнику "Эй ты" или девушке "Ты бл*дь"?</item>
-        <item>Лишится большого пальца на ноге или родиться с родимым пятном на половину лица?</item>
-        <item>Одеть футболку с изображением пениса или с изображением вагины?</item>
-        <item>Ходить всю жизнь без трусов или всю жизнь в одних и тех же?</item>
-        <item>Съесть живого африканского таракана или остаться на час с питоном в клетке?</item>
-        <item>Воспитывать ребенка от предыдущего брака супруга или взять ребенка из приюта?</item>
-        <item>Всю жизнь без оргазма или вкусной еды?</item>
-        <item>Выпить залпом 2 литра воды или пробыть в остывшей ванне 5 часов?</item>
-        <item>Спать по 20 часов в день или всю жизнь не спать, но постоянно хотеть?</item>
-        <item>Обвинить невиновного человека в краже или врать ребенку до конца жизни что Санта Клаус существует?</item>
-        <item>Сказать родному ребенку, что он приемный или врать всю жизнь, что приемный ребенок родной?</item>
-        <item>Пить только чистую водку или вообще никогда не пить?</item>
-        <item>Иметь абсолютно плоскую грудь или грудь 5го размера?</item>
-        <item>Стать проктологом или патологоанатомом?</item>
-        <item>Никогда больше не сидеть или не лежать?</item>
-        <item>Пережить голод неделю или бессоницу месяц?</item>
-        <item>Отдать своего ребенка в другую семью или никогда не иметь своего собственного ребенка?</item>
-        <item>Носить всю жизнь только черную одежду или каждый раз одежду всех цветов радуги?</item>
-        <item>Умереть после 35 счастливым человеком или в 80 несчастным?</item>
+        <item>Experience constant pain or unbearable itching?</item>
+        <item>Die in a fire or freeze to death?</item>
+        <item>Wipe your face with sandpaper or use vinegar instead of eye drops?</item>
+        <item>So that no one comes to your wedding or no one comes to your funeral?</item>
+        <item>Opt out of facebook or opt out of YouTube?</item>
+        <item>Eat a friend\'s goat or your grandmother\'s earwax?</item>
+        <item>Lick a street dog\'s fur or stick your finger up a pet cat\'s ass?</item>
+        <item>Come to work in your underwear or have sex in front of your parents?</item>
+        <item>Walk naked at night in the center of Bangkok or spend the day smelly homeless?</item>
+        <item>Noticeably scratch between the legs at a meeting or fart in the Elevator with colleagues?</item>
+        <item>Tell the boss "Hey you" or the girl "You f* * K"?</item>
+        <item>Lose a big toe or be born with a birthmark on half of your face?</item>
+        <item>Wear a t-shirt with a picture of a penis or a picture of a vagina?</item>
+        <item>Go all your life without underwear or all your life in the same ones?</item>
+        <item>Eat a live African cockroach or stay for an hour with a Python in a cage?</item>
+        <item>Raise a child from a previous spouse\'s marriage or take a child from an orphanage?</item>
+        <item>A lifetime without an orgasm or delicious food?</item>
+        <item>Drink 2 liters of water in one gulp or stay in a cold bath for 5 hours?</item>
+        <item>Sleep for 20 hours a day, or do not sleep all your life, but always want to?</item>
+        <item>Accuse an innocent person of theft or lie to a child for the rest of their life that Santa Claus exists?</item>
+        <item>Tell your own child that he is adopted or lie all your life that the adopted child is your own?</item>
+        <item>Drink only vodka or never drink at all?</item>
+        <item>Have a completely flat chest or a size 5 breast?</item>
+        <item>To become a proctologist or a pathologist?</item>
+        <item>Never sit or lie down again?</item>
+        <item>Survive hunger for a week or insomnia for a month?</item>
+        <item>Give your child to another family or never have a child of your own?</item>
+        <item>Wear only black clothes all your life, or wear all the colors of the rainbow every time?</item>
+        <item>To die after 35 a happy person or at 80 an unhappy one?</item>
     </string-array>
 
     <string-array name="hard_questions">
-        <item>Переспать с бомжихой или съесть отрыжку друга?</item>
-        <item>Выпить из лужи или шлепнуть по попе мужика в баре?</item>
-        <item>Иметь член 35 см или иметь член 7см?</item>
-        <item>Выпить залпом бутылку водки или спеть "Зайка моя" в магазине?</item>
-        <item>Съесть муху или пойти на работу в домашних тапочках?</item>
-        <item>Переспать с хламидиозной проституткой без презерватива или дать красивому парню сделать тебе минет?</item>
-        <item>На один день стать человеком другого пола или на один день стать собакой?</item>
-        <item>Провести ночь в заброшенной психиатрической больнице или провести ночь в гей-клубе?</item>
-        <item>Загорать на общественном пляже час полностью голым или вылить себе на голову бутылку молока в магазине?</item>
-        <item>Отрубить себе руку или отрубить себе член?</item>
-        <item>Признаться в любви кондуктору или облизнуть пол в подъезде?</item>
-        <item>Затолкать автору в жопу бензопилу или вентилятор?</item>
-        <item>Съесть стакан соды и запить уксусом или съесть пачку ментоса и запить колой?</item>
-        <item>Описаться публично или обделаться в туалете и потратить 3 часа на то, чтобы отмыться?</item>
-        <item>Покакать в гипермаркете незаметно от людей или прилюдно пописать на улице?</item>
-        <item>Поставить на рабочем столе заставку из гей-порно или признаться десантнику, что заднеприводный?</item>
-        <item>Снять видео как ты какаешь и отправить первой любви или снять видео как ты мастурбируешь и отправить (бывшему) классному руководителю?</item>
-        <item>Пинуть амбала в баре и попытаться убежить или прелюдно плюнуть незнакомой девушке в лицо?</item>
-        <item>Прижечь сигарету о свой лоб или до конца жизни пользоваться Internet Explorer?</item>
-        <item>Трахнуть уродливую женщину или дать в рот самому красивому парню?</item>
-        <item>Помастурбировать при коллегах или сесть на дилдо в доме престарелых?</item>
-        <item>Подставить начальника и занять его место или никогда не подняться по карьерной лестнице?</item>
-        <item>Съесть какашку птички или искупать в чане с гавном слона?</item>
-        <item>Иметь возможность мыться только раз в месяц или всю жизнь справлять нужду в ведро?</item>
-        <item>Никогда не любить или никогда не испытывать оргазм?</item>
-        <item>Испытывать непроизвольные оргазмы в неожиданных местах или пукать 6 раз в день, но в определенное время?</item>
-        <item>Иметь толстый член, но короткий или длинный, но очень тонкий?</item>
-        <item>Переспать с 10 людьми за вечер или с одним всю свою жизнь?</item>
-        <item>Не ходить в туалет по-большому неделю или сесть на обоссаный ободок унитаза?</item>
-        <item>Иметь обе руки левые или всего одну ногу?</item>
-        <item>Иметь очень прыщавое лицо или тело в язвах?</item>
+        <item>Sleep with a homeless woman or eat a friend\'s burp?</item>
+        <item>Drink from a puddle or slap a man\'s ass in a bar?</item>
+        <item>To be a member of 35 cm or to have a member of 7cm?</item>
+        <item>Drink a bottle of vodka in one gulp or sing "my Bunny" in the store?</item>
+        <item>Eat a fly or go to work in Slippers?</item>
+        <item>Sleep with a chlamydia prostitute without a condom or let a beautiful guy give you a Blowjob?</item>
+        <item>Become a man of the other sex for one day, or become a dog for one day?</item>
+        <item>Spend the night in an abandoned psychiatric hospital or spend the night in a gay club?</item>
+        <item>Sunbathe on a public beach for an hour completely naked or pour a bottle of milk on your head in a store?</item>
+        <item>Chop off your hand or chop off your penis?</item>
+        <item>Confess your love to a neighbor or lick the road near the house?</item>
+        <item>Shove a chainsaw or a fan up the author\'s ass?</item>
+        <item>Eat a glass of soda and wash it down with vinegar, or eat a pack of Mentos and wash it down with a coke?</item>
+        <item>Pee in public or take a piss in the toilet and spend 3 hours cleaning up?</item>
+        <item>Poop in a store unnoticed by people or pee in public on the street?</item>
+        <item>Put a gay porn screensaver on your desktop or tell a huge guy in a bar that you like him?</item>
+        <item>Take a video of you pooping and send it to your first love, or take a video of you masturbating and send it to your (former) class teacher?</item>
+        <item>Kick a big guy in a bar and try to run away or publicly spit in a strange girl\'s face?</item>
+        <item>Burn a cigarette on your forehead or use Internet Explorer for the rest of your life?</item>
+        <item>Fuck an ugly woman or give the most beautiful guy a mouthful?</item>
+        <item>Masturbate in front of colleagues or sit on a Dildo in a nursing home?</item>
+        <item>Substitute the boss and take his place, or never climb the career ladder?</item>
+        <item>Eat a bird\'s poop or take a dip in an elephant\'s shit pool?</item>
+        <item>Be able to wash only once a month or spend your entire life urinating in a bucket?</item>
+        <item>Never love or never have an orgasm?</item>
+        <item>Experience involuntary orgasms in unexpected places or fart 6 times a day, but at a certain time?</item>
+        <item>Have a thick penis, but short or long, but very thin?</item>
+        <item>Do you want to sleep with 10 people in an evening or just one person for the rest of your life?</item>
+        <item>Don\'t go to the toilet in a big way for a week or sit on the piss rim of the toilet?</item>
+        <item>Have both hands left or just one leg?</item>
+        <item>Have a very pimply face or body with ulcers?</item>
     </string-array>
 </resources>
